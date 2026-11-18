@@ -26,9 +26,8 @@ saves you'd hate to lose.
 
 Download the pre-compiled package file and drag it to your Applications folder.
 
-```bash
-After dragging to Applications, open it once, then go to System Settings → Privacy & Security and click Open Anyway.
-```
+> [!NOTE]
+> After dragging to Applications, open it once, then go to System Settings → Privacy & Security and click Open Anyway.
 
 ## Using the app
 
