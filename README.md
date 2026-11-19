@@ -13,6 +13,10 @@ None of it worked on a recent silicon Macs.
 
 ![mymc running on macOS](screens/screenshot.png)
 
+
+> [!IMPORTANT]
+> [Download](https://github.com/AldersTech/MyMemorycard-MacOS/releases/download/v1.0.0/MyMemorycard-1.0.0-macOS-arm.dmg) our packaged application if you do not want to compile the source code yourself.
+
 ## Before you use it
 
 Quit PCSX2 first. If you change a card while the emulator has it open, it
